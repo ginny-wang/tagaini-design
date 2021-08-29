@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Jost:wght@400;500&family=Knewave&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+        </div>
+        <div class="wrapper">
+        </div>
+        <nav class="desktop-nav">
+            <div class="logo">
+                <a href="#">TAGAINI</a>
+        <div>
+        <header>
+            <h1> Resources </h1>
+        </header>
+                </div>
+        </div>
+            </div>
+        </nav>
+        </div>
+
+    <div><div class="wrapper">
+        <div><div class="text">
+            <img src="images/support.png" style="width:100%;">
+            <h1>SUPPORT</h1>
+        </div>
+    </div>
+        <div><div class="text">
+            <img src="images/donate.png" style="width:100%;">
+            <h1>STATISTICS</h1>
+        </div>
+    </div>
+        <div><div class="text">
+            <img src="images/stats.png" style="width:100%;">
+            <h1>DONATE</h1>
+        </div>
+    </div>
+        </div>
+           
+    </body>
+
+</html>
