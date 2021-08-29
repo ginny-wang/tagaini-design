@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --orange: #D2531D;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+
+.text{
+    float: left;
+    width: 33.33%;
+    padding: 2px;
+}
+
+.wrapper::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body{
+    font-family:"East Sea Dokdo"
+}
+
+.wrapper{
+    font-family:"Jost";
+    font-size: 20px;
+    text-align:center;
+    position: fixed;
+}
+header{
+    font-family:"Knewave"
+}
+.wrapper {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 0px
+}
+
+.desktop-nav .logo a {
+    text-decoration:none;
+    color: #000000;
+    font-size: 100px;
+    padding-left: 80px;
+    bottom: 618px;
+    position: fixed;
+}
+
+.logo {
+    background: #D2531D;
+    width: 1440px;
+height: 178px;
+left: 0px;
+top: 0px;
+}
+
+header {
+    text-align: center;
+    position: relative;
+    width: 536px;
+    height: 100px;
+    left: 452px;
+    top: 26px;
+    color: #FFFFFF;
+    font-size: 50px
+}
