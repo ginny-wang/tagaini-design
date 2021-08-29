@@ -17,7 +17,7 @@ header {
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
-    border-bottom: 14px solid rgb(238, 146, 123);
+    border-bottom: 14px solid rgb(0, 0, 0);
 }
 
 .text-content1 {
@@ -104,7 +104,7 @@ header {
 .footer { 
  /* orange box */
     background: url('Rectangle36.png');
-    background-position: buttom;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
@@ -115,7 +115,7 @@ header {
 
 .header-d { 
     padding-top: 50pt;
-    padding-bottom: 60pt;
+    padding-bottom: 50pt;
     font-family: Knewave;
     font-style: normal;
     font-weight: normal;
@@ -134,4 +134,5 @@ header {
     line-height: 58px;
     text-align: center;
     color: #FFFFFF;
+    padding-bottom: 20pt;
 }
