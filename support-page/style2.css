@@ -1,0 +1,90 @@
+* {
+    box-sizing: initial;
+    margin: 0;
+}
+
+.header { 
+    /* orange box */
+       background: url('Rectangle36.png');
+       background-position: top;
+       background-repeat: no-repeat;
+       background-size: 100%;
+       width: 100%;
+       position: center;
+       display:flex
+
+    /* header Connect with Us */
+}
+   
+.header-left { 
+    padding-top: 50pt;
+    padding-bottom: 50pt;
+    font-family: Knewave;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 109px;
+    text-align: left;
+    display:flex
+    color: #FFFFFF;
+    position: absolute;
+    width: 784px;
+    height: 235px;
+    left: 60px;
+    top: 19px;
+
+    font-family: East Sea Dokdo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 125px;
+    text-transform: uppercase;
+}
+   
+   .header-middle { 
+       font-family: 'Jost', sans-serif;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 20px;
+       line-height: 58px;
+       text-align: center;
+       color: #FFFFFF;
+       padding-bottom: 20pt;
+   }
+
+
+.footer { 
+    /* orange box */
+       background: url('Rectangle36.png');
+       background-position: bottom;
+       background-repeat: no-repeat;
+       background-size: 100%;
+       width: 100%;
+       position: center;
+    /* header Connect with Us */
+   
+   }
+   
+   .header-d { 
+       padding-top: 50pt;
+       padding-bottom: 50pt;
+       font-family: Knewave;
+       font-style: normal;
+       font-weight: normal;
+       font-size: 40px;
+       line-height: 109px;
+       text-align: center;
+       
+       color: #FFFFFF;
+   }
+   
+   .contact-info { 
+       font-family: 'Jost', sans-serif;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 20px;
+       line-height: 58px;
+       text-align: center;
+       color: #FFFFFF;
+       padding-bottom: 20pt;
+   }
