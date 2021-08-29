@@ -16,8 +16,8 @@ header {
     background-position: top;
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 98%;
-    border: 14px solid rgb(238, 146, 123);
+    width: 100%;
+    border-bottom: 14px solid rgb(238, 146, 123);
 }
 
 .text-content1 {
@@ -99,4 +99,39 @@ header {
     color: #000000;
   
 
+}
+
+.footer { 
+ /* orange box */
+    background: url('Rectangle36.png');
+    background-position: buttom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    position: center;
+ /* header Connect with Us */
+
+}
+
+.header-d { 
+    padding-top: 50pt;
+    padding-bottom: 60pt;
+    font-family: Knewave;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 109px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.contact-info { 
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
 }
