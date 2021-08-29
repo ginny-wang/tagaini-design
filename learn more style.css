@@ -1,0 +1,151 @@
+
+* {
+    box-sizing: initial;
+    margin: 0;
+}
+
+header { 
+   
+    font-family: Knewave;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 240px;
+    text-align: center;
+    background: url(Rectangle34.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    border-bottom: 14px solid rgb(0, 0, 0);
+}
+
+.text-content1 {
+
+    font-family: Maitree;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 64px;
+    text-align: center;
+    padding-top: 50pt;
+    padding-bottom: 46pt;
+    padding-left:50pt;
+    padding-right: 50pt;
+    text-align: center;
+}
+
+
+.container { 
+
+    position: center;
+    width: 1200px;
+    height: 700px;
+    top: 572px;
+    background: url('Rectangle35.png');
+    margin-left: 30pt;
+    border-radius: 42px;
+ /* header b */
+    font-family: Knewave;
+    padding-top: 20pt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 191px;
+    text-align: center;
+    color: #D2531D;
+}
+
+.text-content2{
+    font-family: Maitree;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 60px;
+    text-align: left;
+    color: #000000;
+    padding-top: 20pt;
+    padding-bottom: 46pt;
+    padding-left:50pt;
+    padding-right: 50pt;
+}
+
+.header-c { 
+  
+    padding-top: 20pt;
+    font-family: Knewave;
+    font-style: normal;
+    font-weight:lighter;
+    font-size: 60px;
+    line-height: 191px;
+    text-align: center;
+    
+    color: #D2531D;
+
+}
+
+.text-content3 { 
+    font-family: Maitree;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 64px;
+    text-align: center;
+    padding-top: 10pt;
+    padding-bottom: 46pt;
+    padding-left:60pt;
+    padding-right: 60pt;
+
+    color: #000000;
+
+}
+
+.bottom {
+    font-family: Maitree;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 64px;
+    text-align: center;
+    padding-top:10pt;
+    padding-bottom: 46pt;
+    padding-left: 60pt;
+    padding-right: 60pt;
+    color: #000000
+}
+
+.footer { 
+ /* orange box */
+    background: url('Rectangle36.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    position: center;
+ /* header Connect with Us */
+
+}
+
+.header-d { 
+    padding-top: 50pt;
+    padding-bottom: 50pt;
+    font-family: Knewave;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 109px;
+    text-align: center;
+    
+    color: #D2531D;
+}
+
+.contact-info { 
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 58px;
+    text-align: center;
+    color: #D2531D;
+    padding-bottom: 20pt;
+}
